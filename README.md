@@ -1,4 +1,4 @@
-# tiny-shell
+# tinyShell
 Two programs that mimic command line functionality
 
 tsh-pipe.c - implements a command shell pipeline
